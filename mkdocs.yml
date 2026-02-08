@@ -1,0 +1,40 @@
+site_name: The VOID Preservation Documentation
+theme:
+  name: material
+  language: en
+  palette:
+    scheme: slate
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.annotate
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.keys
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.magiclink
+  - pymdownx.betterem
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Links: links.md
+  - Highlights: highlights.md
+  - Annotations: annotations.md
+  - Tabs: tabs.md
