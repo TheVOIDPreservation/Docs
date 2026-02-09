@@ -36,7 +36,12 @@ nav:
   - Home: index.md
   - Hardware:
       - Overview: hardware/index.md
-      - Hewo: hardware/hewo.md
+      - RAPTURE Backtop: hardware/RAPTURE_Backtop.md
+      - RAPTURE HMD: hardware/RAPTURE_HMD.md
+      - RAPTURE Gun: hardware/RAPTURE_Gun.md
+      - RAPTURE Battery: hardware/RAPTURE_Battery.md
+      - RAPTURE Battery Charger: hardware/RAPTURE_Battery_Charger.md
+      - RAPTURE Tracker: hardware/RAPTURE_Tracker.md
   - VOID SDK: void-sdk/index.md
   - Games: games/index.md
 
