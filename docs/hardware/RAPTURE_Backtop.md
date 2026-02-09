@@ -1,6 +1,7 @@
 # RAPTURE Backtop
 
 The RAPTURE Backtop is a proprietary Backpack PC / Haptic Suit combo created by The VOID in collaboration with [Optimal Design](https://www.optimaldesignco.com/src/pages/contact-us.html) (now owned by [Deloitte](https://www.deloitte.com/us/en/services/consulting/services/product-engineering-services.html)). 
+
 ---
 
 # Variants / Specs
@@ -18,27 +19,36 @@ The latest, and final revision of RAPTURE Backtops.
 
 !!! info "Disclaimer"  
     From here on out in this document, all info will be about Dome Tops. Nobody (that we know of) currently owns a Flat Top, thus we cannot document it accurately.
+    
 ---
+
 # Haptics  
 
 WIP
 
+---
 # I/O
 
 WIP
 
+---
 # Tracking Hardware
 
 WIP
 
+---
 # Backpack Frame
 
 WIP
 
+---
 # RAPTURE HMD
 
-See [RAPTURE HMD](../hardware/RAPTURE_HMD.md).
+See [RAPTURE HMD](../hardware/RAPTURE_HMD.md).  
 
+---
 # Battery
 
 See [RAPTURE Battery](../hardware/RAPTURE_Battery.md).
+
+---
