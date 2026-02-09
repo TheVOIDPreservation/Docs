@@ -44,4 +44,7 @@ nav:
       - RAPTURE Tracker: hardware/RAPTURE_Tracker.md
   - VOID SDK: void-sdk/index.md
   - Games: games/index.md
+  - Misc:
+    - Overview: misc/index.md
+    - Glossary of Jargon: misc/glossary_of_jargon.md
 
