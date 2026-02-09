@@ -34,6 +34,9 @@ plugins:
 
 nav:
   - Home: index.md
-  - Hardware: hardware/index.md
+  - Hardware:
+      - Overview: hardware/index.md
+      - Hewo: hardware/hewo.md
   - VOID SDK: void-sdk/index.md
   - Games: games/index.md
+
