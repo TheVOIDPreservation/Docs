@@ -34,7 +34,6 @@ plugins:
 
 nav:
   - Home: index.md
-  - Links: links.md
-  - Highlights: highlights.md
-  - Annotations: annotations.md
-  - Tabs: tabs.md
+  - Hardware: hardware/index.md
+  - VOID SDK: void-sdk/index.md
+  - Games: games/index.md
