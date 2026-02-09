@@ -28,6 +28,7 @@ markdown_extensions:
   - pymdownx.tasklist
   - pymdownx.magiclink
   - pymdownx.betterem
+  - pymdownx.tilde
 
 plugins:
   - search

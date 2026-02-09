@@ -27,3 +27,11 @@ Latest / Final physical design was made by [TAIT Design](https://www.taittowers.
 ![Stage](imgs/basestage.png)  
 3D render of a base stage, with no additional walls or props.
 
+## Backtop
+
+A portmanteau of the words "laptop" and "backpack". The VOID originally had a trademark on this word, but it's long expired.  
+
+## Terminal / VEC
+
+In some public-facing communications [(seen here)](https://www.facebook.com/photo.php?fbid=3728967400477956&set=pb.100064593493675.-2207520000&type=3), The VOID refers to their locations as "Terminals". Internally, a location can sometimes be referred to as a "VEC" (VOID Entertainment Center?).
+
