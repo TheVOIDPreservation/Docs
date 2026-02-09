@@ -4,7 +4,7 @@ The RAPTURE Backtop is a proprietary Backpack PC / Haptic Suit combo created by 
 
 ---
 
-# Variants / Specs
+# Variants
 There are two variants of RAPTURE Backtop that were used in VOID Terminals.  
 <details>
 <summary> "Flat Top" </summary>
@@ -19,7 +19,13 @@ The latest, and final revision of RAPTURE Backtops.
 
 !!! info "Disclaimer"  
     From here on out in this document, all info will be about Dome Tops. Nobody (that we know of) currently owns a Flat Top, thus we cannot document it accurately.
-    
+
+---
+
+# Specs
+
+WIP
+
 ---
 
 # Haptics  
@@ -47,7 +53,7 @@ WIP
 See [RAPTURE HMD](../hardware/RAPTURE_HMD.md).  
 
 ---
-# Battery
+# Batteries
 
 See [RAPTURE Battery](../hardware/RAPTURE_Battery.md).
 
