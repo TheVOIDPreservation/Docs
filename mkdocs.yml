@@ -44,7 +44,9 @@ nav:
       - RAPTURE Battery: hardware/RAPTURE_Battery.md
       - RAPTURE Battery Charger: hardware/RAPTURE_Battery_Charger.md
       - RAPTURE Tracker: hardware/RAPTURE_Tracker.md
-  - VOID SDK: void-sdk/index.md
+  - VOID API:
+      - Overview: void-api/index.md
+      - XVoid: void-api/xvoid.md
   - Games: games/index.md
   - Misc:
     - Overview: misc/index.md
