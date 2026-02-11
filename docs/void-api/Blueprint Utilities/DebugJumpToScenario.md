@@ -1,7 +1,7 @@
 ## `DebugJumpToScenario`
 
 !!! danger
-    This is based on a decompilation of WIR only, and it's internal functionality will vary between titles; exact behavior for games with this function has not yet been confirmed. Additionally, it's no longer seen in the newer games like Jumunji. 
+    This is based on a decompilation of WIR only, and it's internal functionality DOES vary between titles; exact behavior for other games with this function has not yet been confirmed. Additionally, it's no longer seen in the newer games like Jumunji. 
 
 Debug-jumps the active scenario to a matching Scenario. Believed to be used primarily for development and testing to force the manager to make a specific scenario active.
 

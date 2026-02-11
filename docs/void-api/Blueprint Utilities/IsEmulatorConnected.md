@@ -1,7 +1,7 @@
 ## `IsEmulatorConnected`
 
 !!! warning
-    This information was taken from one game, but the same logic should apply to all games. This function has been observed in all games seen so far.
+    This is based on a decompilation of WIR only, but the same logic should apply to all games. This function has been observed in all games seen so far.
 
 This function is a utility helper designed to check for the presence of an emulator. At the moment, we don't actually know what the emulator is.
 
@@ -18,8 +18,8 @@ This function is a utility helper designed to check for the presence of an emula
 
 The function operates through a simple validation and retrieval sequence:
 
-1. It attempts to locate the global instance of the `AVoidSDKManager`.
-2. It checks if the `AVoidSDKManager` instance is valid (not null).
+1. It attempts to locate the global instance of the `VoidSDKManager`.
+2. It checks if the `VoidSDKManager` instance is valid (not null).
 3. If valid, it queries the manager for a specific boolean setting identified by the key `"emulator.present"`.
 4. It returns the value of that setting. If the manager cannot be found, it defaults to `false`.
 
