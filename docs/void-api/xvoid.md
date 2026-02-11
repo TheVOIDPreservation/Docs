@@ -9,4 +9,4 @@ The reason for the name "XVoid" is unclear, but there are two prevailing theorie
 2. Alternatively, it could have been an old plugin that is now deprecated, as it no longer appears in newer games like Jumanji, with most of its functions missing.
 
 !!! info "Disclaimer"
-    As some functions are labeled without XVoid in games older than Wreck-It Ralph, we won't create separate documentation XVoid functions (unless they are only seen in XVoid API), but we will indicate if a function appears in XVoid.
+    As some functions are labeled without XVoid in games older than Wreck-It Ralph, we won't create separate documentation for XVoid functions (unless they are only seen in XVoid API), but we will indicate if a function appears in XVoid.

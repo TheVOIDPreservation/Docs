@@ -47,6 +47,10 @@ nav:
   - VOID API:
       - Overview: void-api/index.md
       - XVoid: void-api/xvoid.md
+      - Blueprint Utilities: 
+        - Overview: void-api/Blueprint Utilities/index.md
+        - IsEmulatorConnected: void-api/Blueprint Utilities/IsEmulatorConnected.md
+        - DebugJumpToScenario: void-api/Blueprint Utilities/DebugJumpToScenario.md
   - Games: games/index.md
   - Misc:
     - Overview: misc/index.md
