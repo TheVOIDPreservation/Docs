@@ -8,7 +8,19 @@ The RAPTURE HMD is the connected VR headset intended to run in-tandem with the [
 ---
 
 # Hardware
-something something it has a cv1, b&o headphones, optitrack hardware, leap motion, and flip visor  
-this is very WIP.
+
+The RAPTURE HMD is a semi-custom VR headset designed to run in-tandem with a [RAPTURE Backtop](RAPTURE_Backtop.md). It contains a modified Oculus Rift CV1, Leap Motion hand tracking sensor, OptiTrack Active Markers, and large stereo headphones with inbuilt volume controls.  
+The custom shell changes the fitment of the headset from the standard CV1 and allows the front optic module to flip up for onboarding and safety.
+
+[image of HMD, front / semi side view]  
+[image of HMD, front view (LM centered)]  
+[image of HMD, side view]  
+[image of HMD, back view]    
+[image of HMD, flipped up state]  
+[image of HMD, interior showing lenses]
 
 
+Aside from the custom shell and OptiTrack hardware, RAPTURE HMDs are nothing fancy. You can easily interchange parts between a standard CV1 and the RAPTURE HMD. Standard Rift CV1s were even used during development of games, as shown in some promotional material!
+
+![CV1 used during development](imgs/rapture-cv1.png)
+> ###### [Image Credit: The VOID, ILM Immersive (ILMxLAB), Epic Games as Unreal Engine](https://www.youtube.com/watch?v=Q5Ju8315-mc)
