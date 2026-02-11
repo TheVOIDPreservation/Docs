@@ -18,14 +18,14 @@ The custom shell changes the fitment of the headset from the standard CV1 and al
 [image of HMD, back view]    
 [image of HMD, flipped up state]  
 [image of HMD, interior showing lenses] 
- 
-<img src="imgs/optitrack_board.jpg" width="601" height="801">  
+
+<img src="../hardware/imgs/optitrack_board.jpg" width="601" height="801">  
 
 > ###### Back panel of HMD removed revealing OptiTrack active marker and audio PCB.
 
 ---
 
-Aside from the custom shell and OptiTrack hardware, RAPTURE HMDs are nothing fancy. You can easily interchange parts between a standard CV1 and the RAPTURE HMD. Standard Rift CV1s were even used during development of games, as shown in some promotional material!
+Aside from the custom shell and OptiTrack hardware, RAPTURE HMDs are nothing fancy. You can easily interchange parts between a standard CV1 and the RAPTURE HMD. Standard Rift CV1s with Leap Motion sensors attached were even used during development of games as shown in some promotional material!
 
 ![CV1 used during development](imgs/rapture-cv1.png)
 > ###### [Image Credit: The VOID, ILM Immersive (ILMxLAB), Epic Games as Unreal Engine](https://www.youtube.com/watch?v=Q5Ju8315-mc)
