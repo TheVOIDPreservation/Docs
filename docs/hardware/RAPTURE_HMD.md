@@ -17,10 +17,11 @@ The custom shell changes the fitment of the headset from the standard CV1 and al
 [image of HMD, side view]  
 [image of HMD, back view]    
 [image of HMD, flipped up state]  
-[image of HMD, interior showing lenses]  
+[image of HMD, interior showing lenses] 
+ 
 <img src="imgs/optitrack_board.jpg" width="601" height="801">  
 
-> ###### Back panel of HMD removed revealing OptiTrack active marker and audio PCB. .
+> ###### Back panel of HMD removed revealing OptiTrack active marker and audio PCB.
 
 ---
 
