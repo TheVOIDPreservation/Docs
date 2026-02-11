@@ -60,4 +60,4 @@ See [RAPTURE Battery](../hardware/RAPTURE_Battery.md).
 
 ---
 
-[^1] The exact frame model and carrying size of the original hiking backpacks are "officially" unknown. Current rumor thinks an [Osprey Stratos 34L](https://www.benchmarkoutfitter.com/stratos-34.html?srsltid=AfmBOoo1WLyE4vhjUT3LPWaqJQSRrJv4MmJ3yFIU7uuHWeFo_XXVr5d8), but I still have some research to do before I can pin down an exact model. RAPTURE Backtops also came in S/M/L sizes, which adds some complexity. :/
+[^1]:The exact frame model and carrying size of the original hiking backpacks are "officially" unknown. Current rumor thinks an [Osprey Stratos 34L](https://www.benchmarkoutfitter.com/stratos-34.html?srsltid=AfmBOoo1WLyE4vhjUT3LPWaqJQSRrJv4MmJ3yFIU7uuHWeFo_XXVr5d8), but I still have some research to do before I can pin down an exact model. RAPTURE Backtops also came in S/M/L sizes, which adds some complexity. :/
