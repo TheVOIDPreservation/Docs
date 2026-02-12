@@ -46,6 +46,7 @@ nav:
       - RAPTURE Tracker: hardware/RAPTURE_Tracker.md
   - VOID API:
       - Overview: void-api/index.md
+      - SDK Guide: void-api/sdk_guide.md
       - XVoid: void-api/xvoid.md
       - Blueprint Utilities: 
         - Overview: void-api/Blueprint Utilities/index.md
